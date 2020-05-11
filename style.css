@@ -1,0 +1,101 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.entire{
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+  width: 1440px;
+  height: 1440px;
+}
+.top{
+  padding-top: 80px;
+  font-weight: 200;
+  font-size: 3rem;
+  margin: 0;
+    color: hsl(229, 6%, 66%);
+}
+.next{
+  font-weight: 600;
+  margin-top: 0;
+  font-size: 3rem;
+}
+.text{
+    color: hsl(229, 6%, 66%);
+    padding: 0 0 0px 0;
+}
+input{
+  display: block;
+  position: relative;
+  left: 70%;
+  bottom: 0;
+  padding: 15% 0 0 0;
+}
+.supervisor{
+  border: solid;
+  border-width: 5px 0 0 0;
+  border-color: hsl(180, 62%, 55%);
+  border-radius: 15px;
+  padding: 40px;
+  width: 23%;
+  background-color: white;
+  text-align: left;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+  font-weight: 400;
+  position:relative;
+  top: 15%;
+  right: 30%;
+  box-shadow: 0 5px 5px hsl(229, 6%, 66%);
+}
+.karma{
+  border: solid;
+  border-width: 5px 0 0 0;
+  border-color: hsl(34, 97%, 64%);
+  border-radius: 15px;
+  padding: 40px;
+  width: 23%;
+  background-color: white;
+  text-align: left;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+  font-weight: 400;
+  position:relative;
+  bottom: 15%;
+  box-shadow: 0 5px 5px hsl(229, 6%, 66%);
+}
+.team-builder{
+  border: solid;
+  border-width: 5px 0 0 0;
+  border-color: hsl(0, 78%, 62%);
+  border-radius: 15px;
+  padding: 40px;
+  width: 23%;
+  background-color: white;
+  text-align: left;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+  font-weight: 400;
+  position:relative;
+  bottom: 17%;
+  box-shadow: 0 5px 5px hsl(229, 6%, 66%);
+}
+.calculator{
+  border: solid;
+  border-width: 5px 0 0 0;
+  border-color: hsl(212, 86%, 64%);
+  border-radius: 15px;
+  padding: 40px;
+  width: 23%;
+  background-color: white;
+  text-align: left;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+  font-weight: 400;
+  position:relative;
+  bottom: 47%;
+  left: 30%;
+  box-shadow: 0 5px 5px hsl(229, 6%, 66%);
+}
+h2{
+  color: black;
+  margin-top: 0;
+}
